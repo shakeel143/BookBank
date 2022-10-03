@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_availableBooks"
+        android:icon="@drawable/ic_av_book"
+        android:title="Available Books" />
+
+    <item
+        android:id="@+id/navigation_onlineBook"
+        android:icon="@drawable/ic_o_book"
+        android:title="Online Library" />
+
+    <item
+        android:id="@+id/navigation_requestBook"
+        android:icon="@drawable/ic_req_book"
+        android:title="Request Books" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more"
+        android:title="More" />
+
+
+
+</menu>
